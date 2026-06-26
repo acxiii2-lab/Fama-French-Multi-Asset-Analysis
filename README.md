@@ -66,7 +66,7 @@ The objective is to evaluate whether market, size, and value factors explain por
 
 ## Regression Result
 
-![OLS](images/images/logistic_summary.png)
+![OLS](images/logistic_summary.png)
 
 ---
 
