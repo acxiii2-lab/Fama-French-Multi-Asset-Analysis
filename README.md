@@ -59,7 +59,7 @@ The objective is to evaluate whether market, size, and value factors explain por
 
 ## Correlation Heatmap
 
-![Correlation](images/logistic_summary.png)
+![Correlation](images/r2_heatmap.png)
 
 
 ---
