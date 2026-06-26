@@ -59,13 +59,14 @@ The objective is to evaluate whether market, size, and value factors explain por
 
 ## Correlation Heatmap
 
-![Correlation](images/correlation_heatmap.png)
+![Correlation](images/logistic_summary.png)
+
 
 ---
 
 ## Regression Result
 
-![OLS](images/regression_summary.png)
+![OLS](images/images/logistic_summary.png)
 
 ---
 
