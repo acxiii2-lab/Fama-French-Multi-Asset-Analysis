@@ -57,6 +57,18 @@ The objective is to evaluate whether market, size, and value factors explain por
 
 ---
 
+## Correlation Heatmap
+
+![Correlation](images/correlation_heatmap.png)
+
+---
+
+## Regression Result
+
+![OLS](images/regression_summary.png)
+
+---
+
 ## Research Conclusion
 
 The Fama-French Three-Factor Model explains a meaningful proportion of return variation across the selected UK equities.
