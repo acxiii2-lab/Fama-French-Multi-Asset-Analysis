@@ -57,6 +57,15 @@ The objective is to evaluate whether market, size, and value factors explain por
 
 ---
 
+## Research Conclusion
+
+The Fama-French Three-Factor Model explains a meaningful proportion of return variation across the selected UK equities.
+
+Among the three factors, market risk (MKT-RF) exhibits the strongest explanatory power, while SMB and HML vary across industries. Financial and energy companies demonstrate different factor sensitivities, highlighting the importance of sector characteristics in portfolio construction.
+
+This project demonstrates the application of quantitative factor investing techniques using Python and regression analysis to evaluate equity portfolios.
+
+---
 ## Author
 
 AC HSUEH
