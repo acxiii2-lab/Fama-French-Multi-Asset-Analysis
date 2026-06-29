@@ -72,11 +72,22 @@ The objective is to evaluate whether market, size, and value factors explain por
 
 ## Research Conclusion
 
-The Fama-French Three-Factor Model explains a meaningful proportion of return variation across the selected UK equities.
+This study examines whether traditional Fama-French factors explain the returns of selected UK equities.
 
-Among the three factors, market risk (MKT-RF) exhibits the strongest explanatory power, while SMB and HML vary across industries. Financial and energy companies demonstrate different factor sensitivities, highlighting the importance of sector characteristics in portfolio construction.
+The analysis begins by converting monthly stock prices into monthly returns and aligning them with the Fama-French market (Mkt-RF), size (SMB), value (HML), and risk-free rate (RF) factors. Multiple regression models are then estimated to compare the explanatory power of different predictor sets.
 
-This project demonstrates the application of quantitative factor investing techniques using Python and regression analysis to evaluate equity portfolios.
+The results suggest that:
+
+Fama-French factors provide meaningful explanatory power for asset returns, but they do not fully explain stock performance on their own.
+
+Including returns from other assets alongside the Fama-French factors generally improves model performance, indicating that co-movement among stocks contains additional information beyond the classical factor model.
+
+Adding a random control variable produces little or no improvement, supporting the view that the observed explanatory power comes from economically meaningful variables rather than random noise.
+
+Logistic regression shows that future return direction can be predicted better than chance for some assets, although prediction accuracy varies across securities and remains limited by market uncertainty.
+
+Overall, the findings indicate that the Fama-French framework remains a useful foundation for explaining equity returns, but combining factor exposures with cross-asset information provides a more comprehensive representation of market behaviour.
+
 
 ---
 ## Author
